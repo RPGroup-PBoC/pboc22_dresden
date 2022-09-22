@@ -30,10 +30,10 @@
     <header>
     <h3>1. A feeling for the organism</h3>
     </header>
-  videos1:
-    - url: https://www.youtube.com/watch?v=z9l-sgUhC_s
-      title: A feeling for the organism (13:10)
-      description: This vignette introduces the goal of the course, nothing less than to develop a quantitative feeling for the nature of the living world.
+  #videos1:
+  #  - url: https://www.youtube.com/watch?v=z9l-sgUhC_s
+  #    title: A feeling for the organism (13:10)
+  #    description: This vignette introduces the goal of the course, nothing less than to develop a quantitative feeling for the nature of the living world.
       
 #    - url: https://www.youtube.com/watch?v=-dvhttEc_rA
 #      title: I wonder... (37:04)
@@ -51,11 +51,11 @@
 - day:
   date: > 
    Tue. Oct 4
-  topic1: >
-    <header>
-    <h3>2. All is flux: dynamics across scales in biology</h3>
-    </header> 
-  videos1:
+  #topic1: >
+  #  <header>
+  #  <h3>2. All is flux: dynamics across scales in biology</h3>
+  #  </header> 
+  #videos1:
     # - url: https://www.youtube.com/watch?v=DeievEzAlKU
     #   title: Semantics on scale (18:13)
     #   description: This vignette describes two ways in which we will use the word scale. First, in the spirit of "what sets the scale of X?" and second, how some quantity of interest, such as the diffusion time, scales with some other quantity such as the length over which that scaling occurs.
@@ -72,11 +72,11 @@
 - day:
   date: > 
    Wed. Oct 5
-  topic1: >
-    <header>
-    <h3>3. Probability as the language of biology: from coin flips to diffusion and embryogenesis</h3>
-    </header> 
-  videos1:
+  #topic1: >
+  #  <header>
+  #  <h3>3. Probability as the language of biology: from coin flips to diffusion and embryogenesis</h3>
+  #  </header> 
+  #videos1:
     # - url: https://www.youtube.com/watch?v=4reTaFAFQv0
     #   title: Bar tailed godwit migration (18:50)
     #   description: This vignette talks about the physical challenges faced by bar tailed godwit birds in their 10,000 km nonstop migratory journey between Alaska and New Zealand.
@@ -105,11 +105,11 @@
 - day:
   date: > 
    Thur. Oct 6
-  topic1: > 
-    <header>
-    <h3>4. The secret of life as defiance</h3>
-    </header> 
-  videos1:
+  #topic1: > 
+  #  <header>
+  #  <h3>4. The secret of life as defiance</h3>
+  #  </header> 
+  #videos1:
   #   - url: https://www.youtube.com/watch?v=URQM_DyIo3M
   #     title: Collective animal motions (8:31)
   #     description: This vignette observes that animals of all kinds participate in organized collective motions, providing a "many-body" challenge to the theory of active matter.
@@ -140,11 +140,11 @@
 - day:
   date: > 
    Fri. Oct 7
-  topic1: >
-    <header>
-    <h3>5. Beyond the atoms: coarse-grained views of living matter</h3>
-    </header> 
-  videos1:
+  #topic1: >
+  #  <header>
+  #  <h3>5. Beyond the atoms: coarse-grained views of living matter</h3>
+  #  </header> 
+  #videos1:
 #    - url: https://www.youtube.com/watch?v=b90lCVjJ4jY
 #      title: I wonder - pattern formation (17:22)
 #      description: This vignette introduces the idea of biological pattern as a prelude to the mathematical exploration of these phenomena using the twin concepts of positional information and the Turing instability.
