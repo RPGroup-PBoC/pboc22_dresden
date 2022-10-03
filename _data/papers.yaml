@@ -31,3 +31,9 @@ Reading assignments:
    author: "Yinon M. Bar-On, Avi Flamholz, Rob Phillips and Ron Milo"
    journal: "eLife"
    link: "http://rpdata.caltech.edu/publications/Bar-On_2020.pdf"
+
+ - title: "The quantitative and condition-dependent Escherichia coli proteome"
+   author: "Schmidt et al."
+   journal: "Nature Biotechnology"
+   description: "Mass Spectrometry measurements of the E. coli proteome in 22 different growth conditions."
+   link: "https://www.nature.com/articles/nbt.3418"
