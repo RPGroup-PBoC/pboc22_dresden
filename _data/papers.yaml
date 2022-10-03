@@ -42,3 +42,21 @@ Monday Lectures (Day 1):
    author: "DNA Learning Center"
    description: "Video about the Ribosome synthesizing a protein. Not showing proofreading."
    link: "https://www.youtube.com/watch?v=TfYf_rPWUdY"
+
+ - title: "Anthroponumbers.org: A quantitative database of human impacts on Planet Earth"
+   author: "Chure & Banks et al."
+   journal: Patterns
+   link: "http://rpdata.caltech.edu/publications/Chure2022.pdf"
+
+ - title: "Human Impacts Database"
+   author: "Chure & Banks et al."
+   description: "Database containing an evergrowing list of curated numbers about the human impact on the planet."
+   link: "http://www.anthroponumbers.org/catalog/"
+
+ - title: "Striking Graphs That Show Humanity’s Domination of the Earth"
+   author: "Matt Simon"
+   journal: Wired Magazine
+   description: "Article about the Human Impacts Database"
+   link: "https://www.wired.com/story/striking-graphs-that-show-humanitys-domination-of-the-earth/"
+
+
