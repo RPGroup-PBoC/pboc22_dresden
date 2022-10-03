@@ -7,12 +7,7 @@ Reading assignments:
  - title: "Street-Fighting Mathematics"
    author: "Sanjoy Mahajan"
    description: "This book elaborates on the skills we will be honing throughout the week as we try to go from the precise calculating with which we are often taught to performing quick calculations largely driven by our intuition to get to rough estimates."
-   link: "https://library.oapen.org/handle/20.500.12657/26090" 
-
- - title: "Street-Fighting Mathematics"
-   author: "Sanjoy Mahajan"
-   description: "This book elaborates on the skills we will be honing throughout the week as we try to go from the precise calculating with which we are often taught to performing quick calculations largely driven by our intuition to get to rough estimates."
-   link: "https://math.berkeley.edu/~jchaidez/materials/reu/lee_smooth_manifolds.pdf" 
+   link: "https://library.oapen.org/handle/20.500.12657/26090"  
 
  - title: "Introduction to Smooth Manifolds"
    author: "John M Kee"
@@ -22,3 +17,17 @@ Reading assignments:
  - title: "Science from a Sheet of Paper"
    author: "Tadashi Tokieda"
    link: "https://www.youtube.com/watch?v=D15L0E1zHJ0&ab_channel=Stanford"
+
+ - title: "Schrödinger’s What Is Life? at 75"
+   author: "Rob Phillips"
+   journal: "Cell Systems"
+   link: "https://www.sciencedirect.com/science/article/pii/S240547122100199X"
+
+ - title: "Post-translational modification: nature’s escape from genetic imprisonment and the basis for dynamic information encoding"
+   author: "Sudhakaran Prabakaran, Guy Lippens, Hanno Steen, and Jeremy Gunawardena"
+   link: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3473174/pdf/nihms392978.pdf"
+
+ - title: "SARS-CoV-2 (COVID-19) by the numbers"
+   author: "Yinon M. Bar-On, Avi Flamholz, Rob Phillips and Ron Milo"
+   journal: "eLife"
+   link: "http://rpdata.caltech.edu/publications/Bar-On_2020.pdf"
