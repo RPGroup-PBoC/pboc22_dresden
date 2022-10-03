@@ -37,3 +37,8 @@ Monday Lectures (Day 1):
    journal: "Nature Biotechnology"
    description: "Mass Spectrometry measurements of the E. coli proteome in 22 different growth conditions. Datasets are in the Supplementary."
    link: "https://www.nature.com/articles/nbt.3418"
+
+ - title: "mRNA translation"
+   author: "DNA Learning Center"
+   description: "Video about the Ribosome synthesizing a protein. Not showing proofreading."
+   link: "https://www.youtube.com/watch?v=TfYf_rPWUdY"
