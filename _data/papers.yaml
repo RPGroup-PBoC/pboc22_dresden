@@ -73,19 +73,24 @@ Monday Lectures (Day 1):
 Tuesday Lectures (Day 2):
  - title: "The Origins of Genome Complexity"
    author: "Michael Lynch and John S. Conery"
-   journal: Science
+   journal: "Science"
    link: "https://pubmed.ncbi.nlm.nih.gov/14631042/"
 
  - title: "A synthetic oscillatory network of transcriptional regulators"
    author: "Micheal Ellowitz and Stanislas Leibler"
-   journal: Nature
+   journal: "Nature"
    link: "https://www.nature.com/articles/35002125"
 
- - title: "Napoleon Is in Equilibrium"
-   author: "Rob Phillips"
-   journal: Annual Reviews
-   link: "http://rpdata.caltech.edu/publications/NapoleonEquilibrium.pdf"
+ - title: "Interdependence of Cell Growth and Gene Expression: Origins and Consequences"
+   author: "Matthew Scott et al."
+   journal: Science
+   link: "https://www.science.org/doi/10.1126/science.1192588?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed"
 
+ - title: "Emergence of robust growth laws from optimal regulation of ribosome synthesis"
+   author: "Matthew Scott et al."
+   journal: "Molecular Systems Biology"
+   description: Follow up paper on Scott et al., 2010, with free access.
+   link: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4299513/pdf/msb0010-0747.pdf"
 
 
 
