@@ -148,6 +148,21 @@ Wednesday (Day 3):
    journal: "Bioinformatics"
    link: "https://docs.nextstrain.org/en/latest/learn/about.html#:~:text=Hadfield%20et%20al.%2C%20Nextstrain%3A%20real%2Dtime%20tracking%20of%20pathogen%20evolution%20%2C%20Bioinformatics%20(2018)"
 
+ - title: "Fitness flux and ubiquity of adaptive evolution"
+   author: "Ville Mustonen and Michael Lässig"
+   journal: "PNAS"
+   description: "Very thorough discussion of population genetics and fitness flux. Check out the supplementary for a discussion of mutation-selection-drift dynamics with plenty of derivations."
+   link: "https://www.pnas.org/doi/full/10.1073/pnas.0907953107#supplementary-materials"
+
+ - title: "On the Probability if Fixation of Mutant Genes in a Population"
+   author: "Motoo Kimura"
+   description: "Derives the probability of mutations fixing in a population in the limit of low mutation rates. The equation shows how the population size and natural selection compete."
+   link: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1210364/pdf/713.pdf"
+
+
+
+
+
 
 
 
